@@ -1,2 +1,2 @@
-# Car_Black_Box
-This is the code for car black box project using pic controller
+# Image_Stegnography
+This is the code for image stegnography , i have used all possible CONCEPTS IN C to make this project
